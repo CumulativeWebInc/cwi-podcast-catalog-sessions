@@ -10,9 +10,11 @@
   <itunes:owner><itunes:name>Cumulative Web Inc</itunes:name><itunes:email>hp@cumulativeweb.com</itunes:email></itunes:owner>
   <itunes:image href="https://cumulativewebinc.github.io/cwi-podcast-catalog-sessions/cover.jpg"/>
   <itunes:category text="Music"/>
-  <itunes:explicit>no</itunes:explicit>
+  <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <copyright>© 2026 Cumulative Web Inc. All rights reserved.</copyright>
   <podcast:locked>yes</podcast:locked>
+  <podcast:guid>8f3a1c2d-7b4e-4f9a-9d1c-2e5b6a7c8d9e</podcast:guid>
   <item>
     <title>Episode 1: Origin Story — Post-Trap Futurism</title>
     <description>There is an independent rapper out of Frederick, Maryland with twenty four songs, his own sound, and a story nobody has told properly yet. This show is going to tell it, one track at a time. Welcome to Post-Trap Futurism, the Catalog Sessions. I am Nia. And I am Marcus. Over the next twenty five episodes, we are walking through the entire catalog of That Boy Hi Hat. Not just the hits. Every song. Where it came from, how it was made, and why it sounds like the future. And at the end of every episode, you hear the song itself, start to finish. No clips, no teases. The whole thing. Before we get to track one, you need the origin story. Because this catalog did not happen by accident.</description>
@@ -22,7 +24,7 @@
     <pubDate>Sun, 20 Sep 2026 08:00:00 -0400</pubDate>
     <itunes:duration>5:42</itunes:duration>
     <itunes:episode>1</itunes:episode>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Episode 2: Diabolique — The Spearhead</title>
@@ -33,7 +35,7 @@
     <pubDate>Sun, 20 Sep 2026 08:30:00 -0400</pubDate>
     <itunes:duration>3:16</itunes:duration>
     <itunes:episode>2</itunes:episode>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Episode 3: Zooted Zone — The Breakout</title>
@@ -44,7 +46,7 @@
     <pubDate>Sun, 20 Sep 2026 09:00:00 -0400</pubDate>
     <itunes:duration>3:31</itunes:duration>
     <itunes:episode>3</itunes:episode>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Episode 4: Shaka Zulu — The Warrior Code</title>
@@ -55,7 +57,7 @@
     <pubDate>Sun, 20 Sep 2026 09:30:00 -0400</pubDate>
     <itunes:duration>2:52</itunes:duration>
     <itunes:episode>4</itunes:episode>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Episode 5: Doves &amp; Diamonds — Peace and Pressure</title>
@@ -66,7 +68,7 @@
     <pubDate>Sun, 20 Sep 2026 10:00:00 -0400</pubDate>
     <itunes:duration>2:51</itunes:duration>
     <itunes:episode>5</itunes:episode>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Episode 6: Flex My Flame — Turn It Up</title>
@@ -77,7 +79,7 @@
     <pubDate>Sun, 20 Sep 2026 10:30:00 -0400</pubDate>
     <itunes:duration>2:54</itunes:duration>
     <itunes:episode>6</itunes:episode>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Episode 7: Flamerz — The Producer's Fire</title>
@@ -88,7 +90,7 @@
     <pubDate>Sun, 20 Sep 2026 11:00:00 -0400</pubDate>
     <itunes:duration>2:38</itunes:duration>
     <itunes:episode>7</itunes:episode>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Episode 8: Ultimate — The Last Word</title>
@@ -99,7 +101,7 @@
     <pubDate>Sun, 20 Sep 2026 11:30:00 -0400</pubDate>
     <itunes:duration>2:45</itunes:duration>
     <itunes:episode>8</itunes:episode>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Episode 9: Spirits n Shadows — The Haunted House</title>
@@ -110,7 +112,7 @@
     <pubDate>Sun, 20 Sep 2026 12:00:00 -0400</pubDate>
     <itunes:duration>2:44</itunes:duration>
     <itunes:episode>9</itunes:episode>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Episode 10: Painted Lady — The Portrait</title>
@@ -121,7 +123,7 @@
     <pubDate>Sun, 20 Sep 2026 12:30:00 -0400</pubDate>
     <itunes:duration>2:41</itunes:duration>
     <itunes:episode>10</itunes:episode>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Episode 11: Toxic Element — The Warning Label</title>
@@ -132,7 +134,7 @@
     <pubDate>Sun, 20 Sep 2026 13:00:00 -0400</pubDate>
     <itunes:duration>2:35</itunes:duration>
     <itunes:episode>11</itunes:episode>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Episode 12: 7th Angel — Seven Days of Sorrow</title>
@@ -143,7 +145,7 @@
     <pubDate>Sun, 20 Sep 2026 13:30:00 -0400</pubDate>
     <itunes:duration>3:00</itunes:duration>
     <itunes:episode>12</itunes:episode>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Episode 13: Phantasm — The Mirror</title>
@@ -154,7 +156,7 @@
     <pubDate>Sun, 20 Sep 2026 14:00:00 -0400</pubDate>
     <itunes:duration>2:46</itunes:duration>
     <itunes:episode>13</itunes:episode>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Episode 14: Golden Diamond — Priceless</title>
@@ -165,7 +167,7 @@
     <pubDate>Sun, 20 Sep 2026 14:30:00 -0400</pubDate>
     <itunes:duration>2:50</itunes:duration>
     <itunes:episode>14</itunes:episode>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Episode 15: Broken Hearts Club — The Membership</title>
@@ -176,7 +178,7 @@
     <pubDate>Sun, 20 Sep 2026 15:00:00 -0400</pubDate>
     <itunes:duration>2:36</itunes:duration>
     <itunes:episode>15</itunes:episode>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Episode 16: Neon Nights Pt. 777 — The Jackpot Night</title>
@@ -187,7 +189,7 @@
     <pubDate>Sun, 20 Sep 2026 15:30:00 -0400</pubDate>
     <itunes:duration>2:38</itunes:duration>
     <itunes:episode>16</itunes:episode>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Episode 17: Warped &amp; Wicked — The Beautiful Bend</title>
@@ -198,7 +200,7 @@
     <pubDate>Sun, 20 Sep 2026 16:00:00 -0400</pubDate>
     <itunes:duration>2:41</itunes:duration>
     <itunes:episode>17</itunes:episode>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Episode 18: Rainbows And Roses — The Color</title>
@@ -209,7 +211,7 @@
     <pubDate>Sun, 20 Sep 2026 16:30:00 -0400</pubDate>
     <itunes:duration>2:39</itunes:duration>
     <itunes:episode>18</itunes:episode>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Episode 19: Place I Go to Dream — The Escape Hatch</title>
@@ -220,7 +222,7 @@
     <pubDate>Sun, 20 Sep 2026 17:00:00 -0400</pubDate>
     <itunes:duration>2:33</itunes:duration>
     <itunes:episode>19</itunes:episode>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Episode 20: Scorpions &amp; Sapphires — The Sting and the Shine</title>
@@ -231,7 +233,7 @@
     <pubDate>Sun, 20 Sep 2026 17:30:00 -0400</pubDate>
     <itunes:duration>2:25</itunes:duration>
     <itunes:episode>20</itunes:episode>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Episode 21: Tears and Scars — The Testimonial</title>
@@ -242,7 +244,7 @@
     <pubDate>Sun, 20 Sep 2026 18:00:00 -0400</pubDate>
     <itunes:duration>2:37</itunes:duration>
     <itunes:episode>21</itunes:episode>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Episode 22: Smokin' Pain — The Remedy</title>
@@ -253,7 +255,7 @@
     <pubDate>Sun, 20 Sep 2026 18:30:00 -0400</pubDate>
     <itunes:duration>2:29</itunes:duration>
     <itunes:episode>22</itunes:episode>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Episode 23: Misfits and Hooligans — The Tribe</title>
@@ -264,7 +266,7 @@
     <pubDate>Sun, 20 Sep 2026 19:00:00 -0400</pubDate>
     <itunes:duration>2:24</itunes:duration>
     <itunes:episode>23</itunes:episode>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Episode 24: Roses over Monaco — The Victory Lap</title>
@@ -275,7 +277,7 @@
     <pubDate>Sun, 20 Sep 2026 19:30:00 -0400</pubDate>
     <itunes:duration>2:36</itunes:duration>
     <itunes:episode>24</itunes:episode>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
     <title>Episode 25: Tiempo — Time</title>
@@ -286,7 +288,7 @@
     <pubDate>Sun, 20 Sep 2026 20:00:00 -0400</pubDate>
     <itunes:duration>2:58</itunes:duration>
     <itunes:episode>25</itunes:episode>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
   </item>
 </channel>
 </rss>
